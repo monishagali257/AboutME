@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Monisha Gali</h1>
 <h3 align="center">A Data Engineer looking for new job opportunities and cool projects to work on</h3>
 
-- 🌱 I’m currently learning **Sprk,Data Lakes,Data Warehouses**
+- 🌱 I’m currently learning **Spark,Data Lakes,Data Warehouses**
 
-- 💬 Ask me about **Data data data!**
+- 💬 Ask me about **Python,SQL,Data Pipelines,ETL,Data visualization**
 
 - 📫 How to reach me **gali.m@northeastern.edu**
 
